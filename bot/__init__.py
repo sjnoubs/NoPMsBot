@@ -99,7 +99,7 @@ IS_BLACK_LIST_ED_MESSAGE_TEXT = get_config(
     "IS_BLACK_LIST_ED_MESSAGE_TEXT",
     (
         "تم حظرك من المراسلة</b> للأبد😐.\n\n"
-        "<u>Reason</u>: <code>{reason}</code>"
+        "<u>نننننن</u>: <code>{reason}</code>"
     )
 )
 # IDEKWBYRW
@@ -111,7 +111,7 @@ REASON_DE_LIMIT_ER = get_config(
 IS_UN_BANED_MESSAGE_TEXT = get_config(
     "IS_UN_BANED_MESSAGE_TEXT",
     (
-        "تم فك حظرك عن المراسلة🙄 <b>un-banned</b>.\n\n"
+        "تم فك حظرك عن المراسلة🙄 <b>وشكرا</b>.\n\n"
         "<u>Reason</u>: <code>{reason}</code>"
     )
 )
