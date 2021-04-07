@@ -1,1 +1,1 @@
-https://heroku.com/deploy
+https://heroku.com/deploy?template=https://github.com/sjnoub/NoPMsBot
